@@ -30,4 +30,4 @@ Contains 6 main arguments:
   6. timer - delay(in seconds) between message and input prompt
 
 IMPORTANT:
-  THIS MODULE IS NOT LINUX FRIENDLY.
+  FOR LATEST LINUX VERSIONS, INSTALL THE MODULE FOLDER INTO YOUR PROJECT AND WRITE: from Isitini.isitini import *
