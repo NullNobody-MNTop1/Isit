@@ -3,13 +3,13 @@ What is Isit?
 
 How To Install:
   1. Open the folder in VS Code(or something similar. Must have a built-in terminal/command prompt. If you do not have built-in terminal/command prompt, skip to "How To Install Through CMD")
-  2. Write: pip3 install .
+  2. Write: pip3 install . (if you do not have pip3 install pip3 first)
   3. Use import isit to use it in your projects.
 
 How To Install Through CMD:
   1. Open CMD(command prompt)
   2. Navigate to the folder containing isit.py and pyproject.toml files using "cd" command
-  3. Write: pip3 install .
+  3. Write: pip3 install . (if you do not have pip3 install pip3 first)
   4. Use import isit to use it in your projects
 
 How to use:
