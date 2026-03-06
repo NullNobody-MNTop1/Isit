@@ -1,4 +1,4 @@
-What is Isit?
+What is Isitini?
   It is an installable python module that can be used to check and convert variable datatypes. (e.g. if 5 is string you can use Intis() to convert it to integer)
 
 How To Install:
