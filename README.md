@@ -10,7 +10,7 @@ How To Install Through CMD:
   1. Open CMD(command prompt)
   2. Navigate to the folder containing isit.py and pyproject.toml files using "cd" command
   3. Write: pip3 install . (if you do not have pip3 install pip3 first)
-  4. Use import isit to use it in your projects
+  4. Use import isitini to use it in your projects
 
 How to use:
 You can use the following:
