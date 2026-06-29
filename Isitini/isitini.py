@@ -1,6 +1,6 @@
 from time import sleep as s
 
-def Intis(num, mes, inputmes, sendBool = False, useMessage = True, timer = 0.0):
+def Intis(num, mes="", inputmes="", sendBool = False, useMessage = True, timer = 0.0):
     while True:
         try:
             num = int(num)
@@ -17,7 +17,7 @@ def Intis(num, mes, inputmes, sendBool = False, useMessage = True, timer = 0.0):
             else:
                 return False
 
-def Floatis(num, mes, inputmes, sendBool = False, useMessage = True, timer = 0.0):
+def Floatis(num, mes="", inputmes="", sendBool = False, useMessage = True, timer = 0.0):
     while True:
         try:
             num = float(num)
@@ -34,7 +34,7 @@ def Floatis(num, mes, inputmes, sendBool = False, useMessage = True, timer = 0.0
             else:
                 return False
             
-def Stris(num, mes, inputmes, sendBool = False, useMessage = True, timer = 0.0):
+def Stris(num, mes="", inputmes="", sendBool = False, useMessage = True, timer = 0.0):
     while True:
         try:
             num = float(num)
@@ -51,7 +51,7 @@ def Stris(num, mes, inputmes, sendBool = False, useMessage = True, timer = 0.0):
             else:
                 return num
             
-def Boolis(num, mes, inputmes, sendBool = False, useMessage = True, timer = 0.0):
+def Boolis(num, mes="", inputmes="", sendBool = False, useMessage = True, timer = 0.0):
     while True:
         try:
             num = bool(num)
